@@ -211,7 +211,7 @@ const App = () => {
             </Search>
             <IconButton
               color="inherit"
-              aria-lable="switch theme"
+              aria-label="switch theme"
               onClick={changeTheme}
             >
               {darkTheme ? <DarkModeIcon /> : <DarkModeOutlinedIcon />}
