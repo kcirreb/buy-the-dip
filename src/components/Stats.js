@@ -4,10 +4,6 @@ import Typography from "@mui/material/Typography";
 
 import { useGetCryptosQuery } from "../services/cryptoApi";
 
-function preventDefault(event) {
-  event.preventDefault();
-}
-
 const Stats = () => {
   const { data, isFetching } = useGetCryptosQuery(1);
   const cards = [
