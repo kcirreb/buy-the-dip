@@ -9,10 +9,7 @@ const Stats = () => {
   const cards = [
     {
       title: "Cryptos",
-      data: Intl.NumberFormat("en-US", {
-        notation: "compact",
-        maximumFractionDigits: 2,
-      }).format(data?.data?.stats.total),
+      data: data?.data?.stats.total,
     },
     {
       title: "Exchanges",
