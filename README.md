@@ -1,17 +1,17 @@
 # Buy the Dip :chart_with_upwards_trend:
-A one-stop web app for cryptocurrencies and NFTs :money_mouth_face:. Get updated with the latest stats and news :love_you_gesture:.
+A web app that provides the latest statistics and news in cryptocurrencies and NFTs.
 
-:point_right: https://buy-the-dip.netlify.app/
+Link: https://buy-the-dip.netlify.app/
 
 ## App Progress
 - [x] Crypto Stats
 - [x] Top Cryptos
 - [x] Crypto News
-- [ ] Details of individual Cryptos
+- [ ] Individual Cryptos
 - [ ] NFT Stats
 - [ ] Top NFTs
 - [ ] NFT News
-- [ ] Details of individual NFTs
+- [ ] Individual NFTs
 - [ ] Search Function
 
 ## APIs Used
